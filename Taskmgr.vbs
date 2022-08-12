@@ -1,2 +1,2 @@
 set WSHshell = wscript.createobject("wscript.shell")
-WSHShell.Run "Taskmgr.exe"
+WSHShell.Run """C:\Windows\SysWOW64\Taskmgr.exe"""
